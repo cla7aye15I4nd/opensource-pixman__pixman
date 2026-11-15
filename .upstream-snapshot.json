@@ -6,7 +6,7 @@
     "kind": "git",
     "upstream_url": "https://gitlab.freedesktop.org/pixman/pixman.git",
     "branch": "master",
-    "revision": "3174212a815d95e46a72cffe3a5d7891f787c57c"
+    "revision": "b88b92e512a33a222e08352e87ff90a57d33c7b5"
   },
   "publication_review": {
     "license_files": [
@@ -17,6 +17,6 @@
     ],
     "public_fixture_key_markers": []
   },
-  "upstream_tree_sha256": "72fd1ead261804ed177d28480d17daebbf47b025603ce60a9206561b3c489c40",
-  "tree_sha256": "0d3e97b874488a604db39a5586d02b7f6884ee7c4c3e540aa819e69de7478d8d"
+  "upstream_tree_sha256": "63071a48a5546be770dd95af0d9dc43f58bdb130dcfe1bf80c139d0075c59d81",
+  "tree_sha256": "a2b60f3143c568d988c706a92fc285bff827e1d81bc31d586eed21437f8f6d29"
 }
